@@ -1,0 +1,1 @@
+# Arabic_Farsi_Font_Recognition

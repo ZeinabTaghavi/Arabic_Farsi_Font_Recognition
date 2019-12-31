@@ -27,4 +27,7 @@ segments:
 <img src="https://github.com/ZeinabTaghavi/Arabic_Farsi_Font_Recognition/blob/master/lines_images_for_1.jpg/1_line_y1_1433_y2_1493_x1_851_x2_1194_.jpgfolder/2_segment_y1_6_y2_57_x1_20_x2_69_.jpg?raw=true" width="5%" height="5%">
 <img src="https://github.com/ZeinabTaghavi/Arabic_Farsi_Font_Recognition/blob/master/lines_images_for_1.jpg/1_line_y1_1433_y2_1493_x1_851_x2_1194_.jpgfolder/3_segment_y1_6_y2_57_x1_3_x2_30_.jpg?raw=true" width="5%" height="5%">
 
-3 - 
+3 - get each segment to network and then result is each font percent in results:
+
+<img src="https://github.com/ZeinabTaghavi/Arabic_Farsi_Font_Recognition/blob/master/net.png?raw=true" width="30%" height="30%">
+

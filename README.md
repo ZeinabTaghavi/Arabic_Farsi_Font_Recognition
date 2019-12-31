@@ -29,11 +29,14 @@ segments:
 
 3 - get each segment to network and then result is each font percent in results:
 
-<img src="https://github.com/ZeinabTaghavi/Arabic_Farsi_Font_Recognition/blob/master/net.png?raw=true" width="60%" height="60%">
+<img src="https://github.com/ZeinabTaghavi/Arabic_Farsi_Font_Recognition/blob/master/net.png?raw=true" width="80%" height="80%">
 
 result:
+
 Elham: 10%
+
 Farisi: 83%
+
 Vazir: 7%
 
 
